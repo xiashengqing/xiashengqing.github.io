@@ -1,9 +1,9 @@
 CLASSES = {
   0: 'Alma mater',
-  1: 'class1',
-  2: 'class2',
-  3: 'class3',
-  4: 'class4',
+  1: 'Compass',
+  2: 'Lion',
+  3: 'Le Marteleur',
+  4: 'Tightrope',
 };
 
 const MODEL_PATH = document.URL + "model.json";
