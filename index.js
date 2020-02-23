@@ -6,8 +6,7 @@ CLASSES = {
   4: 'class4',
 };
 
-const MODEL_PATH =
-    'model.json';
+const MODEL_PATH = document.URL + "model.json";
 
 const IMAGE_SIZE = 192;
 const TOPK_PREDICTIONS = 5;
