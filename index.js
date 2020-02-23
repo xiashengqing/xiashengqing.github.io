@@ -1,5 +1,5 @@
 CLASSES = {
-  0: 'class0',
+  0: 'Alma mater',
   1: 'class1',
   2: 'class2',
   3: 'class3',
