@@ -1,5 +1,5 @@
 CLASSES = {
-  0: 'Alma mater',
+  0: 'Alma',
   1: 'Compass',
   2: 'Lion',
   3: 'Le Marteleur',
